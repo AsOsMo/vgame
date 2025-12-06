@@ -1,4 +1,9 @@
-{"timestamp": "20:15:20.361", "elapsed_s": 1, "frame": 60, "screen_size": [1280, 720], "p_thing": {"type": "Player", "pos": [640.0, 360.0], "vel": [0.0, 0.0], "rad": 20, "rot": 0}}
-{"timestamp": "20:15:21.342", "elapsed_s": 2, "frame": 120, "screen_size": [1280, 720], "p_thing": {"type": "Player", "pos": [640.0, 360.0], "vel": [0.0, 0.0], "rad": 20, "rot": 0}}
-{"timestamp": "20:15:22.333", "elapsed_s": 3, "frame": 180, "screen_size": [1280, 720], "p_thing": {"type": "Player", "pos": [640.0, 360.0], "vel": [0.0, 0.0], "rad": 20, "rot": 0}}
-{"timestamp": "20:15:23.317", "elapsed_s": 4, "frame": 240, "screen_size": [1280, 720], "p_thing": {"type": "Player", "pos": [640.0, 360.0], "vel": [0.0, 0.0], "rad": 20, "rot": 0}}
+{"timestamp": "20:35:29.775", "elapsed_s": 1, "frame": 60, "screen_size": [1280, 720], "p_thing": {"type": "Player", "pos": [640.0, 360.0], "vel": [0.0, 0.0], "rad": 20, "rot": 0}}
+{"timestamp": "20:35:30.756", "elapsed_s": 2, "frame": 120, "screen_size": [1280, 720], "p_thing": {"type": "Player", "pos": [640.0, 360.0], "vel": [0.0, 0.0], "rad": 20, "rot": -60.0}}
+{"timestamp": "20:35:31.743", "elapsed_s": 3, "frame": 180, "screen_size": [1280, 720], "p_thing": {"type": "Player", "pos": [640.0, 360.0], "vel": [0.0, 0.0], "rad": 20, "rot": -175.5}}
+{"timestamp": "20:35:32.727", "elapsed_s": 4, "frame": 240, "screen_size": [1280, 720], "p_thing": {"type": "Player", "pos": [640.0, 360.0], "vel": [0.0, 0.0], "rad": 20, "rot": -402.6}}
+{"timestamp": "20:35:33.714", "elapsed_s": 5, "frame": 300, "screen_size": [1280, 720], "p_thing": {"type": "Player", "pos": [640.0, 360.0], "vel": [0.0, 0.0], "rad": 20, "rot": -303.3}}
+{"timestamp": "20:35:34.709", "elapsed_s": 6, "frame": 360, "screen_size": [1280, 720], "p_thing": {"type": "Player", "pos": [640.0, 360.0], "vel": [0.0, 0.0], "rad": 20, "rot": -4.8}}
+{"timestamp": "20:35:35.686", "elapsed_s": 7, "frame": 420, "screen_size": [1280, 720], "p_thing": {"type": "Player", "pos": [640.0, 360.0], "vel": [0.0, 0.0], "rad": 20, "rot": 288.3}}
+{"timestamp": "20:35:36.659", "elapsed_s": 8, "frame": 480, "screen_size": [1280, 720], "p_thing": {"type": "Player", "pos": [640.0, 360.0], "vel": [0.0, 0.0], "rad": 20, "rot": 507.9}}
+{"timestamp": "20:35:37.766", "elapsed_s": 9, "frame": 540, "screen_size": [1280, 720], "p_thing": {"type": "Player", "pos": [640.0, 360.0], "vel": [0.0, 0.0], "rad": 20, "rot": 507.9}}

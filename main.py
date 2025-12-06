@@ -17,8 +17,10 @@ def main():
             if event.type == pygame.QUIT:
                 return
         log_state()
+        p_thing.update(dt)
         screen.fill("Black")
         p_thing.draw(screen)
+        
         pygame.display.flip()
         deltatime = clock.tick(60)
         dt = deltatime/1000
