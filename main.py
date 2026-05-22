@@ -46,7 +46,7 @@ def main():
                 if rocks.collides_with(shot):
                     log_event("asteroid_shot")
                     shot.kill()
-                    rocks.kill()
+                    rocks.split()
                 elif rocks.collides_with(p_thing):
                     log_event("player_hit")
                     print("Game over!")
